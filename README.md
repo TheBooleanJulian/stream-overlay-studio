@@ -1,8 +1,8 @@
 <div align="center">
 
-# ai-benchmark
+# StreamOverlay Studio
 
-**A drag-and-drop stream overlay designer for OBS, built as an AI coding benchmark project.**
+**A drag-and-drop stream overlay designer for OBS.**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
